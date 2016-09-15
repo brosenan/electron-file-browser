@@ -1,0 +1,18 @@
+{
+  "name": "electron1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boaz Rosenan <brosenan@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.0"
+  },
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
